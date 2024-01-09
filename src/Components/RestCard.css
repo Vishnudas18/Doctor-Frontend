@@ -1,0 +1,13 @@
+
+
+.cardd{
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.cards{
+    background-color: rgba(116,120,120,0.136);
+    backface-visibility: hidden;
+    box-shadow: 2px 3px 3px black;
+
+}
