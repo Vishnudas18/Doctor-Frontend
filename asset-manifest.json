@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vishnudas18/Doctor-Frontend/static/css/main.1294c664.css",
+    "main.js": "/Vishnudas18/Doctor-Frontend/static/js/main.86747652.js",
+    "index.html": "/Vishnudas18/Doctor-Frontend/index.html",
+    "main.1294c664.css.map": "/Vishnudas18/Doctor-Frontend/static/css/main.1294c664.css.map",
+    "main.86747652.js.map": "/Vishnudas18/Doctor-Frontend/static/js/main.86747652.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1294c664.css",
+    "static/js/main.86747652.js"
+  ]
+}
